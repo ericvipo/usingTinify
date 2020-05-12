@@ -7,4 +7,5 @@ Y añádela a tu archivo .env a nivel raíz como:
 `API_KEY=YOUR_API_KEY`
 
 `npm install`
+
 `node main.js`
